@@ -4,7 +4,7 @@
 - Register no - FC115620
 - Name - J. M. H. S. Jayasinghe
 
-This project contains automated test scripts for the **Text Input** functionality on the website [UITesting Playground](https://uitestingplayground.com/).  
+This project contains automated test scripts on the website [UITesting Playground](https://uitestingplayground.com/).  
 The tests are implemented using:
 
 - **C#**
